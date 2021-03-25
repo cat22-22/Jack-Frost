@@ -1,12 +1,12 @@
 body {
     margin: 0;
-    background-color:#DAF7A6;
+    background-color:#afd0fc;
 }
 header{
     text-align: center;
     font-size: 50px;
-    box-shadow: 0 3px 10px 3px #66A727;
-    background-color: #A1D371;
+    box-shadow: 0 3px 10px 3px #497188;
+    background-color: #1b384b;
 }
 header h1{
     color:#66A727;
