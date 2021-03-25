@@ -21,7 +21,7 @@ header img {
     height: 500px;
     object-fit: cover;
     border-radius: 260px;
-    border: 10px solid #66A727;
+    border: 10px solid #3e4f72;
     margin-top: 20px;
     margin-bottom: 20px;
 }
@@ -35,12 +35,12 @@ main img {
 }
 
 a {
-    color: #395E15;
+    color: #425974;
     text-decoration: none;
 }
 
 a:hover {
-    color:green;
+    color:rgb(75, 95, 122);
     text-decoration: underline;
 }
 
@@ -50,14 +50,14 @@ p, li {
 
 footer {
     text-align: center;
-    color:  #395E15;
+    color:  #3c5769;
     padding: 50px;
-    box-shadow: 0 -3px 10px 3px #66A727;
-    background-color: #A1D371;
+    box-shadow: 0 -3px 10px 3px #b6c9df;
+    background-color: #76869e;
 }
 
 .caption {
-    color:#66A727;
+    color:#628099;
     font-size: 15px;
     text-align: center;
     margin-top: -20px;
